@@ -176,7 +176,8 @@ plt.show()
 
 ### Output
 
-* The plot will show the true position, noisy measurements, and the Kalman filter's position estimates, where the Kalman Filter provides a smoother estimate compared to the noisy measurements.
+![Figure 1](Figure_1.png)
+* The plot shows the true position, noisy measurements, and the Kalman filter's position estimates, where the Kalman Filter provides a smoother estimate compared to the noisy measurements.
 
 ## Conclusion
 
